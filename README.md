@@ -2,7 +2,7 @@
 
 **Embedded Systems & Software Engineer** — Electrical & Electronics Engineering graduate (Istanbul Bilgi University, Departmental Valedictorian).
 
-I work where firmware meets vehicles: automotive bus protocols (CAN, LIN), STM32 microcontrollers, custom hardware, and the tooling around them. Previously at **Bosch Türkiye** in Application & Calibration Engineering, building internal tools for ECU calibration workflows (ETAS INCA/MDA, A2L/HEX data).
+I work where firmware meets vehicles: automotive bus protocols (CAN, LIN), STM32 microcontrollers, custom hardware, and the tooling around them. Previously at **Bosch Türkiye** in Application & Calibration Engineering, driving digitalization and automation: building internal tools for ECU calibration workflows (ETAS INCA/MDA, A2L/HEX data), automating INCA tasks, and developing LLM-based document processing and translation systems.
 
 [![Website](https://img.shields.io/badge/Website-abgocmez--site-0a0c10?style=flat&logo=cloudflare&logoColor=white)](https://abgocmez-site.kombatkan39.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Bat%C4%B1kan%20G%C3%B6%C3%A7mez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-bat%C4%B1kan-g%C3%B6%C3%A7mez-49908925b/)
